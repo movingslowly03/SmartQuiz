@@ -1,0 +1,28 @@
+Introduction to Web Development
+
+Web development is the process of creating websites and web applications. It generally consists of front-end development, back-end development, and database management.
+
+Front-end development focuses on the user interface using technologies such as HTML, CSS, and JavaScript.
+
+Back-end development handles server-side logic using programming languages such as PHP, Python, Java, or Node.js. It communicates with databases to store and retrieve information.
+
+MySQL is a relational database management system commonly used together with PHP. SQL is used to create, retrieve, update, and delete data.
+
+A web server such as Apache receives requests from users and sends the appropriate web pages back to the browser.
+
+Good web applications should be secure, user-friendly, and responsive.
+
+Key Concepts:
+- HTML structures web pages.
+- CSS styles web pages.
+- JavaScript adds interactivity.
+- PHP processes server-side requests.
+- MySQL stores application data.
+- Apache hosts the application.
+
+Sample Facts:
+HTML stands for HyperText Markup Language.
+CSS stands for Cascading Style Sheets.
+PHP is a server-side scripting language.
+MySQL uses SQL to manage data.
+JavaScript runs inside the user's web browser.
